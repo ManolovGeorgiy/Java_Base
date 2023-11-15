@@ -1,0 +1,34 @@
+System.out.println("Haha! Nice try! FROM IF");
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String...args) {
+
+        Scanner scanner = new Scanner(System.in);
+
+        //изначальноеЗначение
+        String message = scanner.nextLine();
+
+        switch (message) {
+            case "Hello":
+                System.out.println("Hello to you as well!!");
+                break;
+            case "fuck":
+                System.out.println("Haha! Nice try! FROM SWITCH");
+            case "bullshit":
+                System.out.println("Haha! Nice try! FROM SWITCH");
+                break;
+            default:
+                System.out.println("I don't know what you're saying!" + message);
+                break;
+        }
+
+        if (message.contains("fuck") || message.contains("bullshit")) {
+            System.out.println("Haha! Nice try! FROM IF");
+        }
+
+
+
+    }
+
+}

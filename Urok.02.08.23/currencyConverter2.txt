@@ -1,0 +1,43 @@
+public class Main {
+    public static void main(String...args) {
+        //изначальноеЗначение
+        double initialValue = 50;
+
+
+        CurrencyConverter.conv(true);
+
+    }
+
+}
+
+---------------------------------------------------------------------------------------
+
+public class CurrencyConverter {
+
+    public static double convert(double initialValue, boolean isTurkishLira, boolean isEuro) {
+        double convertedVal = 0;
+
+
+        if (isTurkishLira && isEuro) {
+            return 0;
+        }
+
+        if (isTurkishLira) {
+            convertedVal = initialValue * 3.14;
+        }
+
+        if (isEuro) {
+            convertedVal = initialValue * 2;
+        }
+
+        return convertedVal;
+    }
+
+    public static void conv(boolean bool) {
+        if (bool) {
+            return;
+        }
+
+        System.out.println("Пытаюсь вывестись!");
+    }
+}

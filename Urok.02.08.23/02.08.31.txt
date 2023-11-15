@@ -1,0 +1,29 @@
+public class Main {
+    public static void main(String[] args) {
+//хорошаяЛиПогода
+        boolean isWeatherGood = false;
+        //гуляюЛиЯ
+        boolean isWalking = false;
+        //остаюсьЛиДома
+        boolean isStayingHome = false;
+
+        //если isWeatherGood =  true, то Java выполняет код с 13 по 15 строки
+        if (isWeatherGood) {
+            System.out.println("Погода хорошая!");
+            isWalking = true;
+            isStayingHome = false;
+        }
+
+        //если isWeatherGood =  false, то Java выполняет код с 20 по 22 строки
+        if (!isWeatherGood) {
+            System.out.println("Погода плохая!");
+            isWalking = false;
+            isStayingHome = true;
+        }
+
+        System.out.println("Хорошая ли погода? " + isWeatherGood);
+        System.out.println("Гуляю ли я? " + isWalking);
+        System.out.println("Остаюсь ли я дома? " + isStayingHome);
+
+    }
+}

@@ -1,0 +1,32 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String...args) {
+
+        Scanner scanner = new Scanner(System.in);
+
+        //изначальноеЗначение
+        int initialValue = scanner.nextInt();
+
+        switch (initialValue) {
+            case 50:
+                System.out.println("Ура! Переменная равна 50");
+                break;
+            case 30:
+                System.out.println("Ура! Переменная равна 30");
+                break;
+            case 100:
+                System.out.println("Ура! Переменная равна 100");
+                break;
+            case 200:
+                System.out.println("Ура! Переменная равна 200");
+                break;
+            default:
+                System.out.println("О нет! Это число мы не предусмотрели!");
+        }
+
+
+
+    }
+
+}

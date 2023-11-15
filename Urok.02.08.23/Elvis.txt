@@ -1,0 +1,21 @@
+public class Main {
+    public static void main(String...args) {
+
+
+        int number = 10;
+
+        int result = 2;
+
+//        if (number > 0) {
+//            result = result * number;
+//        } else {
+//            result = result/number;
+//        }
+
+        //Оператор Элвиса(тернарный опреатор)
+        // ?:
+        result = number > 0 ? result * number : result/number;
+
+        System.out.println(result);
+    }
+}

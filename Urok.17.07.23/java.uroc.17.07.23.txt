@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Введите своё имя:");
+        String name = scanner.nextLine();
+
+        System.out.println("Введите параметры силы:");
+        int strengthScore = scanner.nextInt();
+
+        System.out.println("Введите параметр дипломатии:");
+        int diplomacyScore = scanner.nextInt();
+
+        System.out.println();
+        System.out.println();
+        System.out.println("Вас зовут:" + name + " The Great");
+        System.out.println("Ваши очки силы:" + strengthScore);
+        System.out.println("Ваши очки дипломатии:" + diplomacyScore);
+    }
+}
