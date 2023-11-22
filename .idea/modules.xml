@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CHAT/CHAT.iml" filepath="$PROJECT_DIR$/CHAT/CHAT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator.Pravelinoe.Reshenie/Calculator.Pravelinoe.Reshenie.iml" filepath="$PROJECT_DIR$/Calculator.Pravelinoe.Reshenie/Calculator.Pravelinoe.Reshenie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoWhile/DoWhile.iml" filepath="$PROJECT_DIR$/DoWhile/DoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DoWhile2/DoWhile2.iml" filepath="$PROJECT_DIR$/DoWhile2/DoWhile2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HM_17.07.23/HM_17.07.23.iml" filepath="$PROJECT_DIR$/HM_17.07.23/HM_17.07.23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HOMEWORK/HOMEWORK.iml" filepath="$PROJECT_DIR$/HOMEWORK/HOMEWORK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HOMEWORK1/HOMEWORK1.iml" filepath="$PROJECT_DIR$/HOMEWORK1/HOMEWORK1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HOMEWORK3/HOMEWORK3.iml" filepath="$PROJECT_DIR$/HOMEWORK3/HOMEWORK3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW.26.07.23/HW.26.07.23.iml" filepath="$PROJECT_DIR$/HW.26.07.23/HW.26.07.23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW.Java.19.07.23/HW.Java.19.07.23.iml" filepath="$PROJECT_DIR$/HW.Java.19.07.23/HW.Java.19.07.23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Home.Work.2/Home.Work.2.iml" filepath="$PROJECT_DIR$/Home.Work.2/Home.Work.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Home.work19.07.23/Home.work19.07.23.iml" filepath="$PROJECT_DIR$/Home.work19.07.23/Home.work19.07.23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HomeWork.4/HomeWork.4.iml" filepath="$PROJECT_DIR$/HomeWork.4/HomeWork.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework.333/Homework.333.iml" filepath="$PROJECT_DIR$/Homework.333/Homework.333.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java Base.iml" filepath="$PROJECT_DIR$/.idea/Java Base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java.02.08.23/Java.02.08.23.iml" filepath="$PROJECT_DIR$/Java.02.08.23/Java.02.08.23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Massif/Massif.iml" filepath="$PROJECT_DIR$/Massif/Massif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maternie/Maternie.iml" filepath="$PROJECT_DIR$/Maternie/Maternie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maternie.Slova/Maternie.Slova.iml" filepath="$PROJECT_DIR$/Maternie.Slova/Maternie.Slova.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlayeGame/PlayeGame.iml" filepath="$PROJECT_DIR$/PlayeGame/PlayeGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questionnaire/Questionnaire.iml" filepath="$PROJECT_DIR$/Questionnaire/Questionnaire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Questionnaire!/Questionnaire!.iml" filepath="$PROJECT_DIR$/Questionnaire!/Questionnaire!.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuestionnairePlayers/QuestionnairePlayers.iml" filepath="$PROJECT_DIR$/QuestionnairePlayers/QuestionnairePlayers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TEL_RAN_PROJEKT/TEL_RAN_PROJEKT.iml" filepath="$PROJECT_DIR$/TEL_RAN_PROJEKT/TEL_RAN_PROJEKT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tel-Ran.HomeWork/Tel-Ran.HomeWork.iml" filepath="$PROJECT_DIR$/Tel-Ran.HomeWork/Tel-Ran.HomeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uroc.24.07.23/Uroc.24.07.23.iml" filepath="$PROJECT_DIR$/Uroc.24.07.23/Uroc.24.07.23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Uroc.31.07.23/Uroc.31.07.23.iml" filepath="$PROJECT_DIR$/Uroc.31.07.23/Uroc.31.07.23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Urok.02.08.23/Urok.02.08.23.iml" filepath="$PROJECT_DIR$/Urok.02.08.23/Urok.02.08.23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Urok.07.08.23/Urok.07.08.23.iml" filepath="$PROJECT_DIR$/Urok.07.08.23/Urok.07.08.23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Urok.10.07023/Urok.10.07023.iml" filepath="$PROJECT_DIR$/Urok.10.07023/Urok.10.07023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Urok.19.07.23/Urok.19.07.23.iml" filepath="$PROJECT_DIR$/Urok.19.07.23/Urok.19.07.23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Urok26.07.23/WeaterForcast/WeaterForcast.iml" filepath="$PROJECT_DIR$/Urok26.07.23/WeaterForcast/WeaterForcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Urok26.07.23/WordConcatenator/WordConcatenator.iml" filepath="$PROJECT_DIR$/Urok26.07.23/WordConcatenator/WordConcatenator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordState/WordState.iml" filepath="$PROJECT_DIR$/WordState/WordState.iml" />
+      <module fileurl="file://$PROJECT_DIR$/back.end.prof/back.end.prof.iml" filepath="$PROJECT_DIR$/back.end.prof/back.end.prof.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bbbbbb/bbbbbb.iml" filepath="$PROJECT_DIR$/bbbbbb/bbbbbb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Urok26.07.23/boolian.26.07.23.3/boolian.26.07.23.3.iml" filepath="$PROJECT_DIR$/Urok26.07.23/boolian.26.07.23.3/boolian.26.07.23.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domashka/domashka.iml" filepath="$PROJECT_DIR$/domashka/domashka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Urok26.07.23/nummber.boolian/nummber.boolian.iml" filepath="$PROJECT_DIR$/Urok26.07.23/nummber.boolian/nummber.boolian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/segodnia.26.07/segodnia.26.07.iml" filepath="$PROJECT_DIR$/segodnia.26.07/segodnia.26.07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
