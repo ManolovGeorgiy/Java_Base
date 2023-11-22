@@ -1,4 +1,4 @@
-public class Main {
+public class Sovmestno {
 
 
 public static void main(String[] args) {

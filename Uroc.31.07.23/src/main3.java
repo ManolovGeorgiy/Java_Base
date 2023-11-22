@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class main3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String corretAnswer = "Georgiy";
@@ -15,4 +15,5 @@ public class Main {
       }
 
         System.out.println(("ura!!! vi nazvali pravilino imia!!!"));
+}
 }

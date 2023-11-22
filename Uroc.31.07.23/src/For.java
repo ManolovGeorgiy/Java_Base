@@ -1,4 +1,4 @@
-public class Main {
+public class For {
     public static void main(String[] args) {
         // nomer
         int number = 0;

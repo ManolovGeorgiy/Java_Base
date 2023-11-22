@@ -8,9 +8,8 @@ public class TextMessage {
 
     public TextMessage(String message) {
 
-
-       G1 = message.replace("Fuck","fk").replace("bullshit","bu***t").replace("asshole","ass***le");
-       System.out.println(G1);
+        G1 = message.replace("Fuck","fk").replace("bullshit","bu***t").replace("asshole","ass***le");
+        System.out.println(G1);
 
 
     }

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Cikl5 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         // pravilinii
@@ -10,7 +10,7 @@ public class Main {
 
 
         do {
-            System.out.println("vvedite imia:");
+            System.out.println("Введите имя:");
             userAnswer = scanner.next();
         } while(!userAnswer.equals(corretAnswer));
 
